@@ -1,12 +1,12 @@
 import { Injectable } from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import { HttpClient } from '@angular/common/http';
 import {GEOLOCATION_API_KEY} from '@constants/keys';
 
 @Injectable({
   providedIn: 'root'
 })
 export class GeolocationService {
-  API_KEY = GEOLOCATION_API_KEY;
+  private API_KEY = GEOLOCATION_API_KEY;
 
   constructor(private http: HttpClient) { }
 

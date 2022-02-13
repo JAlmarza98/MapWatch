@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 
 import { BrowserRoutingModule } from './browser-routing.module';
 import { BrowserComponent } from './browser.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -11,7 +12,8 @@ import { BrowserComponent } from './browser.component';
   ],
   imports: [
     CommonModule,
-    BrowserRoutingModule
+    BrowserRoutingModule,
+    FormsModule
   ]
 })
 export class BrowserModule { }

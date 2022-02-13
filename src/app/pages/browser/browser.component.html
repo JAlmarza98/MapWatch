@@ -1,1 +1,57 @@
-<p>browser works!</p>
+<div class="container">
+  <div class="row">
+    <div class="col-8 offset-2 text-center">
+      <h1>Mapwatch</h1>
+      <div class="d-flex my-5">
+        <input
+          class="form-control form-control-lg"
+          type="text"
+          placeholder="Introduce la calle, avenida..."
+          aria-label="address"
+          [(ngModel)]="address"
+          #ctrl="ngModel"
+          required
+          (keyup.enter)="searchAddress()"
+        />
+        <button type="button" class="btn btn-primary" (click)="searchAddress()">
+          <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+        </button>
+      </div>
+
+      <!-- loading -->
+      <div class="col-6 offset-3 address-list text-white" *ngIf="loading">
+        <div class="row">
+          <div class="col-12 pt-2">
+            <h3>Obteniendo resultados</h3>
+          </div>
+          <div class="col-12 p-4">
+            <i class="fa-solid fa-spinner fa-4x fa-spin-pulse"></i>
+          </div>
+        </div>
+      </div>
+
+      <!-- address list -->
+      <div
+        class="col-10 offset-1 address-list text-white text-start mb-3"
+        *ngIf="MatchedAdress"
+      >
+        <div *ngFor="let address of MatchedAdress">
+          <div class="row address-item">
+            <div class="col-11 p-3">
+              <span class="ms-2 fw-bold fs-5">{{
+                address.formatted_address
+              }}</span>
+            </div>
+            <div class="col-1 p-3">
+              <i
+                class="fa-solid fa-angle-right fa-2x pointer"
+                (click)="goToEditor(address)"
+              ></i>
+            </div>
+            <hr />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

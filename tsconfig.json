@@ -9,6 +9,12 @@
       ],
       "@services/*": [
         "src/app/services/*"
+      ],
+      "@pages/*": [
+        "src/app/pages/*"
+      ],
+      "@interfaces/*": [
+        "src/app/interfaces/*"
       ]
     },
     "outDir": "./dist/out-tsc",

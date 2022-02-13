@@ -6,7 +6,7 @@ import { MapComponent } from './pages/map/map.component';
 
 const routes: Routes = [
   {path: '', component: BrowserComponent},
-  {path: 'map', component: MapComponent},
+  {path: 'map/:lat/:long', component: MapComponent},
   {path: '**', redirectTo: '', pathMatch: 'full'}
 ];
 
