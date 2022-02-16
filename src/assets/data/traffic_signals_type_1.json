@@ -1,0 +1,309 @@
+[
+  {
+    "code":"P1",
+    "type": 1,
+    "name":"Intersección con prioridad",
+    "img":""
+  },
+  {
+    "code":"P1a",
+    "type": 1,
+    "name":"Intersección con prioridad sobre vía a la derecha",
+    "img":""
+  },
+  {
+    "code":"P1b",
+    "type": 1,
+    "name":"Intersección con prioridad sobre vía a la izquierda",
+    "img":""
+  },
+  {
+    "code":"P1c",
+    "type": 1,
+    "name":"Intersección con prioridad sobre incorporación por la derecha",
+    "img":""
+  },
+  {
+    "code":"P1d",
+    "type": 1,
+    "name":"Intersección con prioridad sobre incorporación por la izquierda",
+
+    "img":""
+  },
+  {
+    "code":"P2",
+    "type": 1,
+    "name":"Intersección con prioridad de la derecha",
+    "img":""
+  },
+  {
+    "code":"P3",
+    "type": 1,
+    "name":"Semáforos",
+    "img":""
+  },
+  {
+    "code":"P4",
+    "type": 1,
+    "name":"Intersección con circulación giratoria",
+    "img":""
+  },
+  {
+    "code":"P5",
+    "type": 1,
+    "name":"Puente móvil",
+    "img":""
+  },
+  {
+    "code":"P6",
+    "type": 1,
+    "name":"Cruce de tranvia",
+    "img":""
+  },
+  {
+    "code":"P7",
+    "type": 1,
+    "name":"Paso a nivel con barreras",
+    "img":""
+  },
+  {
+    "code":"P8",
+    "type": 1,
+    "name":"Paso a nivel sin barreras",
+    "img":""
+  },
+  {
+    "code":"P9a",
+    "type": 1,
+    "name":"Proximidad de un paso a nivel o de un puente móvil (derecha)",
+    "img":""
+  },
+  {
+    "code":"Pb",
+    "type": 1,
+    "name":"Proximidad de un paso a nivel o de un puente móvil (derecha)",
+    "img":""
+  },
+  {
+    "code":"P9c",
+    "type": 1,
+    "name":"Proximidad de un paso a nivel o de un puente móvil (derecha)",
+    "img":""
+  },
+  {
+    "code":"P10a",
+    "type": 1,
+    "name":"Proximidad de un paso a nivel o de un puente móvil (izquierda)",
+    "img":""
+  },
+  {
+    "code":"P10b",
+    "type": 1,
+    "name":"Proximidad de un paso a nivel o de un puente móvil (izquierda)",
+    "img":""
+  },
+  {
+    "code":"P10c",
+    "type": 1,
+    "name":"Proximidad de un paso a nivel o de un puente móvil (izquierda)",
+    "img":""
+  },
+  {
+    "code":"P11",
+    "type": 1,
+    "name":"Situación de un paso a nivel sin barreras",
+    "img":""
+  },
+  {
+    "code":"P11a",
+    "type": 1,
+    "name":"Situación de un paso a nivel sin barreras de más de una via férrea",
+    "img":""
+  },
+  {
+    "code":"P12",
+    "type": 1,
+    "name":"Aeropuerto",
+    "img":""
+  },
+  {
+    "code":"P13a",
+    "type": 1,
+    "name":"Curva peligrosa a la derecha",
+    "img":""
+  },
+  {
+    "code":"P13b",
+    "type": 1,
+    "name":"Curva peligrosa a la izquierda",
+    "img":""
+  },
+  {
+    "code":"P14a",
+    "type": 1,
+    "name":"Curvas peligrosa a la derecha",
+    "img":""
+  },
+  {
+    "code":"P14b",
+    "type": 1,
+    "name":"Curvas peligrosa a la izquierda",
+    "img":""
+  },
+  {
+    "code":"P15",
+    "type": 1,
+    "name":"Perfil irregular",
+    "img":""
+  },
+  {
+    "code":"P15a",
+    "type": 1,
+    "name":"Resalto",
+    "img":""
+  },
+  {
+    "code":"P15b",
+    "type": 1,
+    "name":"Badén",
+    "img":""
+  },
+  {
+    "code":"P16a",
+    "type": 1,
+    "name":"Bajada peligrosa",
+    "img":""
+  },
+  {
+    "code":"P16b",
+    "type": 1,
+    "name":"Subida con fuerte pendiente",
+    "img":""
+  },
+  {
+    "code":"P17",
+    "type": 1,
+    "name":"Estrechamiento de la calzada",
+    "img":""
+  },
+  {
+    "code":"P17a",
+    "type": 1,
+    "name":"Estrechamiento de la calzada por la derecha",
+    "img":""
+  },
+  {
+    "code":"P17b",
+    "type": 1,
+    "name":"Estrechamiento de la calzada por la izquierda",
+    "img":""
+  },
+  {
+    "code":"P18",
+    "type": 1,
+    "name":"Obras",
+    "img":""
+  },
+  {
+    "code":"P19",
+    "type": 1,
+    "name":"Pavimento deslizante",
+    "img":""
+  },
+  {
+    "code":"P20",
+    "type": 1,
+    "name":"Paso de peatones",
+    "img":""
+  },
+  {
+    "code":"P21",
+    "type": 1,
+    "name":"Niños",
+    "img":""
+  },
+  {
+    "code":"P22",
+    "type": 1,
+    "name":"Ciclistas",
+    "img":""
+  },
+  {
+    "code":"P23",
+    "type": 1,
+    "name":"Paso de animales domésticos",
+    "img":""
+  },
+  {
+    "code":"P24",
+    "type": 1,
+    "name":"Paso de animales en libertad",
+    "img":""
+  },
+  {
+    "code":"P25",
+    "type": 1,
+    "name":"Circulaciñon en los dos sentidos",
+    "img":""
+  },
+  {
+    "code":"P26",
+    "type": 1,
+    "name":"Desprendimientos",
+    "img":""
+  },
+  {
+    "code":"P27",
+    "type": 1,
+    "name":"Muelle",
+    "img":""
+  },
+  {
+    "code":"P28",
+    "type": 1,
+    "name":"Proyección de gravilla",
+    "img":""
+  },
+  {
+    "code":"P29",
+    "type": 1,
+    "name":"Escalóm lateral",
+    "img":""
+  },
+  {
+    "code":"P30",
+    "type": 1,
+    "name":"Vientos transversal",
+    "img":""
+  },
+  {
+    "code":"P31",
+    "type": 1,
+    "name":"Congestión",
+    "img":""
+  },
+  {
+    "code":"P32",
+    "type": 1,
+    "name":"Obstrucción de la calzada",
+    "img":""
+  },
+  {
+    "code":"P33",
+    "type": 1,
+    "name":"Visibilidad reducida",
+    "img":""
+  },
+  {
+    "code":"P34",
+    "type": 1,
+    "name":"Pavimento deslizante por hielo o nieve",
+    "img":""
+  },
+  {
+    "code":"P50",
+    "type": 1,
+    "name":"Otros peligros",
+    "img":""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code":"TS52",
+    "type": 12,
+    "name":"Reducción de un carril por la derecha (3 a 2)",
+    "img":""
+  },
+  {
+    "code":"TS53",
+    "type": 12,
+    "name":"Reducción de un carril porla izquierda (3 a 2)",
+    "img":""
+  },
+  {
+    "code":"TS54",
+    "type": 12,
+    "name":"Reducción de un carril por la derecha (2 a 1)",
+    "img":""
+  },
+  {
+    "code":"TS55",
+    "type": 12,
+    "name":"Reducción de un carril por la izquierda (2 a 1)",
+    "img":""
+  },
+  {
+    "code":"TS60",
+    "type": 12,
+    "name":"Desvio de un carril por la calzada opuesta",
+    "img":""
+  },
+  {
+    "code":"TS61",
+    "type": 12,
+    "name":"Desvio de un carril por la calzada opuesta, manteniendo otro por las obras",
+    "img":""
+  },
+  {
+    "code":"TS62",
+    "type": 12,
+    "name":"Desvio de dos carriles por la calzada opuesta",
+    "img":""
+  }
+]

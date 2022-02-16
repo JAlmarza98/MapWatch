@@ -1,0 +1,38 @@
+[
+  {
+    "code":"R1",
+    "type": 2,
+    "name":"Ceda el paso",
+    "img":""
+  },
+  {
+    "code":"R2",
+    "type": 2,
+    "name":"Detención obligatoria",
+    "img":""
+  },
+  {
+    "code":"R3",
+    "type": 2,
+    "name":"Calzada con prioridad",
+    "img":""
+  },
+  {
+    "code":"R4",
+    "type": 2,
+    "name":"Fin de prioridad",
+    "img":""
+  },
+  {
+    "code":"R5",
+    "type": 2,
+    "name":"Prioridad al sentido contrario",
+    "img":""
+  },
+  {
+    "code":"R6",
+    "type": 2,
+    "name":"Prioridad respecto al sentido contrario",
+    "img":""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "code":"R500",
+    "type": 7,
+    "name":"Fin de prohibiciones",
+    "img":""
+  },
+  {
+    "code":"R501",
+    "type": 7,
+    "name":"Fin de limitación de velocidad",
+    "img":""
+  },
+  {
+    "code":"R502",
+    "type": 7,
+    "name":"Fin de prohibición de adelantamiento",
+    "img":""
+  },
+  {
+    "code":"R504",
+    "type": 7,
+    "name":"Fin de zona de estacionamiento limitado",
+    "img":""
+  },
+  {
+    "code":"R503",
+    "type": 7,
+    "name":"Fin de prohibición de adelantamiento para camiones",
+    "img":""
+  },
+  {
+    "code":"R505",
+    "type": 7,
+    "name":"Fin de prohibición de advertencias acusticas",
+    "img":""
+  },
+  {
+    "code":"R506",
+    "type": 7,
+    "name":"Fin de velocidad mínima",
+    "img":""
+  }
+]

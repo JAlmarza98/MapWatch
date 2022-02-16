@@ -1,0 +1,92 @@
+[
+  {
+    "code":"R300",
+    "type": 5,
+    "name":"Separación mínima",
+    "img":""
+  },
+  {
+    "code":"R301",
+    "type": 5,
+    "name":"Velocidad máxima",
+    "img":""
+  },
+  {
+    "code":"R302",
+    "type": 5,
+    "name":"Giro a la derecha prohibido",
+    "img":""
+  },
+  {
+    "code":"R303",
+    "type": 5,
+    "name":"Giro a la izquierda prohibido",
+    "img":""
+  },
+  {
+    "code":"R304",
+    "type": 5,
+    "name":"Media vuelta prohibida",
+    "img":""
+  },
+  {
+    "code":"R305",
+    "type": 5,
+    "name":"Adelantamiento prohibido",
+    "img":""
+  },
+  {
+    "code":"R306",
+    "type": 5,
+    "name":"Adelantamiento prohibido para camiones",
+    "img":""
+  },
+  {
+    "code":"R307",
+    "type": 5,
+    "name":"Parada y estacionamiento prohibido",
+    "img":""
+  },
+  {
+    "code":"R308",
+    "type": 5,
+    "name":"Estacionamiento prohibido",
+    "img":""
+  },
+  {
+    "code":"R308a",
+    "type": 5,
+    "name":"Estacionamiento prohibido los días impares",
+    "img":""
+  },
+  {
+    "code":"R308b",
+    "type": 5,
+    "name":"Estacionamiento prohibido los días pares",
+    "img":""
+  },
+  {
+    "code":"R308c",
+    "type": 5,
+    "name":"Estacionamiento prohibido la primera quincena",
+    "img":""
+  },
+  {
+    "code":"R308d",
+    "type": 5,
+    "name":"Estacionamiento prohibido la segunda quicena",
+    "img":""
+  },
+  {
+    "code":"R309",
+    "type": 5,
+    "name":"Zona de estacionamiento limitado",
+    "img":""
+  },
+  {
+    "code":"R310",
+    "type": 5,
+    "name":"Advertencias acústicas prohibidas",
+    "img":""
+  }
+]

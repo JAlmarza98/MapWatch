@@ -1,0 +1,110 @@
+[
+  {
+    "code":"TP3",
+    "type": 10,
+    "name":"Semáforos",
+    "img":""
+  },
+  {
+    "code":"TP13a",
+    "type": 10,
+    "name":"Curva peligrosa a la derecha",
+    "img":""
+  },
+  {
+    "code":"TP13b",
+    "type": 10,
+    "name":"Curva peligrosa a la izquierda",
+    "img":""
+  },
+  {
+    "code":"TP14a",
+    "type": 10,
+    "name":"Curvas peligrosas hacia la derecha",
+    "img":""
+  },
+  {
+    "code":"TP14b",
+    "type": 10,
+    "name":"Curvas peligrosas hacia la izquierda",
+    "img":""
+  },
+  {
+    "code":"TP15",
+    "type": 10,
+    "name":"Perfil irregular",
+    "img":""
+  },
+  {
+    "code":"TP15a",
+    "type": 10,
+    "name":"Resalto",
+    "img":""
+  },
+  {
+    "code":"TP15b",
+    "type": 10,
+    "name":"Badén",
+    "img":""
+  },
+  {
+    "code":"TP17",
+    "type": 10,
+    "name":"Estrechamiento de la calzada",
+    "img":""
+  },
+  {
+    "code":"TP17a",
+    "type": 10,
+    "name":"Estrechaminto de la calzada por la derecha",
+    "img":""
+  },
+  {
+    "code":"TP17b",
+    "type": 10,
+    "name":"Estrechamiento de la calzada por la izquierda",
+    "img":""
+  },
+  {
+    "code":"TP18",
+    "type": 10,
+    "name":"Obras",
+    "img":""
+  },
+  {
+    "code":"TP19",
+    "type": 10,
+    "name":"Pavimento deslizante",
+    "img":""
+  },
+  {
+    "code":"TP25",
+    "type": 10,
+    "name":"Circulación en los dos sentidos",
+    "img":""
+  },
+  {
+    "code":"TP26",
+    "type": 10,
+    "name":"Desprendimientos",
+    "img":""
+  },
+  {
+    "code":"TP28",
+    "type": 10,
+    "name":"Proyección de gravilla",
+    "img":""
+  },
+  {
+    "code":"TP30",
+    "type": 10,
+    "name":"Escalón lateral",
+    "img":""
+  },
+  {
+    "code":"TP50",
+    "type": 10,
+    "name":"Otros peligros",
+    "img":""
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "code":"S100",
+    "type": 9,
+    "name":"Puesto de socorro",
+    "img":""
+  },
+  {
+    "code":"S101",
+    "type": 9,
+    "name":"Base de ambulancia",
+    "img":""
+  },
+  {
+    "code":"S102",
+    "type": 9,
+    "name":"Servicio de inspección técnica de vehículos",
+    "img":""
+  },
+  {
+    "code":"S103",
+    "type": 9,
+    "name":"Taller de reparación",
+    "img":""
+  },
+  {
+    "code":"S104",
+    "type": 9,
+    "name":"Teléfono",
+    "img":""
+  },
+  {
+    "code":"S104b",
+    "type": 9,
+    "name":"Teléfono de socorro",
+    "img":""
+  },
+  {
+    "code":"S105",
+    "type": 9,
+    "name":"Surtidor de carburante",
+    "img":""
+  },
+  {
+    "code":"S105a",
+    "type": 9,
+    "name":"Surtidor de carburante y sin plomo",
+    "img":""
+  },
+  {
+    "code":"S106",
+    "type": 9,
+    "name":"Taller de reparación y surtidor de carburante",
+    "img":""
+  },
+  {
+    "code":"S107",
+    "type": 9,
+    "name":"Campamento",
+    "img":""
+  },
+  {
+    "code":"S108",
+    "type": 9,
+    "name":"Agua",
+    "img":""
+  },
+  {
+    "code":"S109",
+    "type": 9,
+    "name":"Lugar pintoresco",
+    "img":""
+  },
+  {
+    "code":"S110",
+    "type": 9,
+    "name":"Hotel o mtel",
+    "img":""
+  },
+  {
+    "code":"S111",
+    "type": 9,
+    "name":"Restaurante",
+    "img":""
+  },
+  {
+    "code":"S112",
+    "type": 9,
+    "name":"Cafetería",
+    "img":""
+  },
+  {
+    "code":"S113",
+    "type": 9,
+    "name":"Terreno para remolques-vivienda",
+    "img":""
+  },
+  {
+    "code":"S114",
+    "type": 9,
+    "name":"Merendero",
+    "img":""
+  },
+  {
+    "code":"S115",
+    "type": 9,
+    "name":"Punto de partida para excursiones a pie",
+    "img":""
+  },
+  {
+    "code":"S116",
+    "type": 9,
+    "name":"Campamento para remolques-vivienda",
+    "img":""
+  },
+  {
+    "code":"S117",
+    "type": 9,
+    "name":"Albergue de juventud",
+    "img":""
+  },
+  {
+    "code":"S118",
+    "type": 9,
+    "name":"Información turistica",
+    "img":""
+  },
+  {
+    "code":"S119",
+    "type": 9,
+    "name":"Coto de pesca",
+    "img":""
+  },
+  {
+    "code":"S120",
+    "type": 9,
+    "name":"Parque nacional",
+    "img":""
+  },
+  {
+    "code":"S121",
+    "type": 9,
+    "name":"Monumento nacional",
+    "img":""
+  },
+  {
+    "code":"S-122-C-600",
+    "type": 9,
+    "name":"Otros servivicios",
+    "img":""
+  },
+  {
+    "code":"S123",
+    "type": 9,
+    "name":"Área de descanso",
+    "img":""
+  },
+  {
+    "code":"S124",
+    "type": 9,
+    "name":"Estacionamiento para usuarios de ferrocarril",
+    "img":""
+  },
+  {
+    "code":"S125",
+    "type": 9,
+    "name":"Estacionamiento para usuarios de ferrocarril subterraneo",
+    "img":""
+  },
+  {
+    "code":"S126",
+    "type": 9,
+    "name":"Estacionamiento parar usarios de autobús",
+    "img":""
+  }
+]

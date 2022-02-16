@@ -1,0 +1,38 @@
+[
+  {
+    "code":"R200",
+    "type": 4,
+    "name":"Prohibición de pasar sin detenerse",
+    "img":""
+  },
+  {
+    "code":"R201",
+    "type": 4,
+    "name":"Limitación de peso",
+    "img":""
+  },
+  {
+    "code":"R202",
+    "type": 4,
+    "name":"Limitación de peso por eje",
+    "img":""
+  },
+  {
+    "code":"R203",
+    "type": 4,
+    "name":"Limitación de longitud",
+    "img":""
+  },
+  {
+    "code":"R204",
+    "type": 4,
+    "name":"Limitación de anchura",
+    "img":""
+  },
+  {
+    "code":"R205",
+    "type": 4,
+    "name":"Limitación de altura",
+    "img":""
+  }
+]

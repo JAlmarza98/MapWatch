@@ -1,0 +1,428 @@
+[
+  {
+    "code":"S1",
+    "type": 8,
+    "name":"Autopista",
+    "img":""
+  },
+  {
+    "code":"S1a",
+    "type": 8,
+    "name":"Autovía",
+    "img":""
+  },
+  {
+    "code":"S1b",
+    "type": 8,
+    "name":"Vía rapida",
+    "img":""
+  },
+  {
+    "code":"S2",
+    "type": 8,
+    "name":"Fin de autopista",
+    "img":""
+  },
+  {
+    "code":"S2a",
+    "type": 8,
+    "name":"Fin de autovía",
+    "img":""
+  },
+  {
+    "code":"S2b",
+    "type": 8,
+    "name":"Fin de vía rapida",
+    "img":""
+  },
+  {
+    "code":"S3",
+    "type": 8,
+    "name":"Vía para automóviles",
+    "img":""
+  },
+  {
+    "code":"S4",
+    "type": 8,
+    "name":"Fin de vía para automóviles",
+    "img":""
+  },
+  {
+    "code":"S5",
+    "type": 8,
+    "name":"Túnel",
+    "img":""
+  },
+  {
+    "code":"S6",
+    "type": 8,
+    "name":"Fin de túnel",
+    "img":""
+  },
+  {
+    "code":"S7",
+    "type": 8,
+    "name":"Velocidad máxima aconsejada",
+    "img":""
+  },
+  {
+    "code":"S8",
+    "type": 8,
+    "name":"Fin de velocidad máxima aconsejada",
+    "img":""
+  },
+  {
+    "code":"S9",
+    "type": 8,
+    "name":"Intervalo aconsejado de velocidades",
+    "img":""
+  },
+  {
+    "code":"S10",
+    "type": 8,
+    "name":"Fin de de intervalo aconsejado de velocidades",
+    "img":""
+  },
+  {
+    "code":"S11",
+    "type": 8,
+    "name":"Calzada de sentido único",
+    "img":""
+  },
+  {
+    "code":"S11a",
+    "type": 8,
+    "name":"Calzada de sentido único",
+    "img":""
+  },
+  {
+    "code":"S11b",
+    "type": 8,
+    "name":"Calzada de sentido único",
+    "img":""
+  },
+  {
+    "code":"S12",
+    "type": 8,
+    "name":"Tramo de calzada de sentido único",
+    "img":""
+  },
+  {
+    "code":"S13",
+    "type": 8,
+    "name":"Situación de un paso de peatones",
+    "img":""
+  },
+  {
+    "code":"S14a",
+    "type": 8,
+    "name":"Paso superior para peatones",
+    "img":""
+  },
+  {
+    "code":"S14b",
+    "type": 8,
+    "name":"Paso inferior para peatones",
+    "img":""
+  },
+  {
+    "code":"S15a",
+    "type": 8,
+    "name":"Calzada sin salida",
+    "img":""
+  },
+  {
+    "code":"S15b",
+    "type": 8,
+    "name":"Preseñalización de calzada sin salida",
+    "img":""
+  },
+  {
+    "code":"S15c",
+    "type": 8,
+    "name":"Preseñalización de calzada sin salida",
+    "img":""
+  },
+  {
+    "code":"S15d",
+    "type": 8,
+    "name":"Preseñalización de calzada sin salida",
+    "img":""
+  },
+  {
+    "code":"S16",
+    "type": 8,
+    "name":"Zona de frenado de emergencia",
+    "img":""
+  },
+  {
+    "code":"S17",
+    "type": 8,
+    "name":"Estacionamiento",
+    "img":""
+  },
+  {
+    "code":"S18",
+    "type": 8,
+    "name":"Estacionamiento reservado para taxis",
+    "img":""
+  },
+  {
+    "code":"S19",
+    "type": 8,
+    "name":"Parada de autobuses",
+    "img":""
+  },
+  {
+    "code":"S20",
+    "type": 8,
+    "name":"Parada de tranvías",
+    "img":""
+  },
+  {
+    "code":"S21",
+    "type": 8,
+    "name":"",
+    "img":""
+  },
+  {
+    "code":"S21.1",
+    "type": 8,
+    "name":"Transitavilidad en tramo o puerto de montaña",
+    "img":""
+  },
+  {
+    "code":"S21.2",
+    "type": 8,
+    "name":"",
+    "img":""
+  },
+  {
+    "code":"S21.3",
+    "type": 8,
+    "name":"",
+    "img":""
+  },
+  {
+    "code":"S22",
+    "type": 8,
+    "name":"Cambio de sentido",
+    "img":""
+  },
+  {
+    "code":"S23",
+    "type": 8,
+    "name":"Hospital",
+    "img":""
+  },
+  {
+    "code":"S24",
+    "type": 8,
+    "name":"Fin de obligación de alumbrado de corto alcance",
+    "img":""
+  },
+  {
+    "code":"S25",
+    "type": 8,
+    "name":"Cambio de sentido a distinto nivel",
+    "img":""
+  },
+  {
+    "code":"S26a",
+    "type": 8,
+    "name":"Panel de aproximación a salida (100m)",
+    "img":""
+  },
+  {
+    "code":"S26b",
+    "type": 8,
+    "name":"Panel de aproximación a salida (200m)",
+    "img":""
+  },
+  {
+    "code":"S26c",
+    "type": 8,
+    "name":"Panel de proximación a salida (300m)",
+    "img":""
+  },
+  {
+    "code":"S27",
+    "type": 8,
+    "name":"Auxilio en carretera",
+    "img":""
+  },
+  {
+    "code":"S28",
+    "type": 8,
+    "name":"Calle residencial",
+    "img":""
+  },
+  {
+    "code":"S29",
+    "type": 8,
+    "name":"Fin de calle residencial",
+    "img":""
+  },
+  {
+    "code":"S30",
+    "type": 8,
+    "name":"Zona a 30",
+    "img":""
+  },
+  {
+    "code":"S31",
+    "type": 8,
+    "name":"Fin de zona a 30",
+    "img":""
+  },
+  {
+    "code":"S32",
+    "type": 8,
+    "name":"Telepeaje",
+    "img":""
+  },
+  {
+    "code":"S33",
+    "type": 8,
+    "name":"Senda ciclable",
+    "img":""
+  },
+  {
+    "code":"S34",
+    "type": 8,
+    "name":"Apartadero",
+    "img":""
+  },
+  {
+    "code":"S34a",
+    "type": 8,
+    "name":"Apartadero",
+    "img":""
+  },
+  {
+    "code":"S50a",
+    "type": 8,
+    "name":"Carriles reservados para tráfico en función de la velocidad señalada",
+    "img":""
+  },
+  {
+    "code":"S50b",
+    "type": 8,
+    "name":"Carriles reservados para tráfico en función de la velocidad señalada",
+    "img":""
+  },
+  {
+    "code":"S50c",
+    "type": 8,
+    "name":"Carriles reservados para tráfico en función de la velocidad señalada",
+    "img":""
+  },
+  {
+    "code":"S50d",
+    "type": 8,
+    "name":"Carriles reservados para tráfico en función de la velocidad señalada",
+    "img":""
+  },
+  {
+    "code":"S50e",
+    "type": 8,
+    "name":"Carriles reservados para tráfico en función de la velocidad señalada",
+    "img":""
+  },
+  {
+    "code":"S51",
+    "type": 8,
+    "name":"Carril reservado para autobus",
+    "img":""
+  },
+  {
+    "code":"S52",
+    "type": 8,
+    "name":"Final de carril destinad a la circulación",
+    "img":""
+  },
+  {
+    "code":"S52a",
+    "type": 8,
+    "name":"Final de carril destinado a la circulación",
+    "img":""
+  },
+  {
+    "code":"S52b",
+    "type": 8,
+    "name":"Final de carril destinado a la circulación",
+    "img":""
+  },
+  {
+    "code":"S53",
+    "type": 8,
+    "name":"Paso de uno a dos carriles de circulación",
+    "img":""
+  },
+  {
+    "code":"S53a",
+    "type": 8,
+    "name":"Paso de uno a dos carriles de circulación con especificación de velocidad máxima en cada uno de ellos",
+    "img":""
+  },
+  {
+    "code":"S53b",
+    "type": 8,
+    "name":"Paso de dos a tres carriles de circulación",
+    "img":""
+  },
+  {
+    "code":"S53c",
+    "type": 8,
+    "name":"Paso de dos atres carriles de circulación con especificación de velocidad máxima en cadauno de ellos",
+    "img":""
+  },
+  {
+    "code":"S60a",
+    "type": 8,
+    "name":"Bifurcación a la izquierda en calzada de dos carriles",
+    "img":""
+  },
+  {
+    "code":"S60b",
+    "type": 8,
+    "name":"Bifurcación a la derecha en calzada de dos carriles",
+    "img":""
+  },
+  {
+    "code":"S61a",
+    "type": 8,
+    "name":"Bifurcación a la izquierda en calzada de tres carriles",
+    "img":""
+  },
+  {
+    "code":"S61b",
+    "type": 8,
+    "name":"Bifurcación a la derecha en calzada de tres carriles",
+    "img":""
+  },
+  {
+    "code":"S62a",
+    "type": 8,
+    "name":"Bifurcación al aizquierda en calzada de cuatro carriles",
+    "img":""
+  },
+  {
+    "code":"S62b",
+    "type": 8,
+    "name":"Bifurcación a la derecha en calzada de cuatro carriles",
+    "img":""
+  },
+  {
+    "code":"S63",
+    "type": 8,
+    "name":"Bifurcación en calzada de cuatro carriles",
+    "img":""
+  },
+  {
+    "code":"S64",
+    "type": 8,
+    "name":"Carril bici o vía ciclista adosada a la calzada",
+    "img":""
+  }
+]

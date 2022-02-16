@@ -13,7 +13,7 @@ import { Router } from '@angular/router';
 export class BrowserComponent implements OnInit {
 
   address!: string;
-  MatchedAdress!: Array<IMatchedAddressResponse>
+  MatchedAdress!: Array<IMatchedAddressResponse> |undefined
   loading = false
 
   constructor(
@@ -24,6 +24,7 @@ export class BrowserComponent implements OnInit {
   }
 
   searchAddress(): void {
+    this.MatchedAdress = undefined
     if (this.address) {
       this.loading = true;
       this.geolocationService.searchDirection(this.address)

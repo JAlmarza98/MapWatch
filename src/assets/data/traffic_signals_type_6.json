@@ -1,0 +1,152 @@
+[
+  {
+    "code":"R400a",
+    "type": 6,
+    "name":"Sentido obligatorio",
+    "img":""
+  },
+  {
+    "code":"R400b",
+    "type": 6,
+    "name":"Sentido obligatorio",
+    "img":""
+  },
+  {
+    "code":"R400c",
+    "type": 6,
+    "name":"Sentido obligatorio",
+    "img":""
+  },
+  {
+    "code":"R400d",
+    "type": 6,
+    "name":"Sentido obligatorio",
+    "img":""
+  },
+  {
+    "code":"R400e",
+    "type": 6,
+    "name":"Sentido obligatorio",
+    "img":""
+  },
+  {
+    "code":"R401a",
+    "type": 6,
+    "name":"Paso obligatorio",
+    "img":""
+  },
+  {
+    "code":"R401b",
+    "type": 6,
+    "name":"Paso obligatorio",
+    "img":""
+  },
+  {
+    "code":"R402",
+    "type": 6,
+    "name":"intersección de sentido giratorio obligario",
+    "img":""
+  },
+  {
+    "code":"R403a",
+    "type": 6,
+    "name":"Únicas direcciones permitidas",
+    "img":""
+  },
+  {
+    "code":"R403b",
+    "type": 6,
+    "name":"Únicas direcciones permitidas",
+    "img":""
+  },
+  {
+    "code":"R403c",
+    "type": 6,
+    "name":"Únicas direcciones permitidas",
+    "img":""
+  },
+  {
+    "code":"R404",
+    "type": 6,
+    "name":"Calazada para automóviles excepto motocicletas de dos ruedas con sidecar",
+    "img":""
+  },
+  {
+    "code":"R405",
+    "type": 6,
+    "name":"Calazada para motocicletas de dos ruedas con sidecar",
+    "img":""
+  },
+  {
+    "code":"R406",
+    "type": 6,
+    "name":"Calzada para camiones",
+    "img":""
+  },
+  {
+    "code":"R407",
+    "type": 6,
+    "name":"Camino reservado para ciclos",
+    "img":""
+  },
+  {
+    "code":"R408",
+    "type": 6,
+    "name":"Camino para vehículos de tracción animal",
+    "img":""
+  },
+  {
+    "code":"R409",
+    "type": 6,
+    "name":"Camino reservado para animales de montura",
+    "img":""
+  },
+  {
+    "code":"R410",
+    "type": 6,
+    "name":"Camino reservado para peatones",
+    "img":""
+  },
+  {
+    "code":"R411",
+    "type": 6,
+    "name":"Velocidad mínima",
+    "img":""
+  },
+  {
+    "code":"R412",
+    "type": 6,
+    "name":"Cadenas para nieve",
+    "img":""
+  },
+  {
+    "code":"R4013",
+    "type": 6,
+    "name":"Alumbrado de corto alcance",
+    "img":""
+  },
+  {
+    "code":"R414",
+    "type": 6,
+    "name":"Calzada para vehiculos de transporte de mercancías peligrosas",
+    "img":""
+  },
+  {
+    "code":"R415",
+    "type": 6,
+    "name":"Calzada para vehiculos que transporten productos contaminantes del agua",
+    "img":""
+  },
+  {
+    "code":"R416",
+    "type": 6,
+    "name":"Calzada para vehiculos que transporten mercancias explosivas o inflamables",
+    "img":""
+  },
+  {
+    "code":"R417",
+    "type": 6,
+    "name":"Uso obligatorio del cinturon de seguridad",
+    "img":""
+  }
+]

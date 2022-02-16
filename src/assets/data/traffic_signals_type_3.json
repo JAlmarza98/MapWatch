@@ -1,0 +1,110 @@
+[
+  {
+    "code":"R100",
+    "type": 3,
+    "name":"Circulación prohibida",
+    "img":""
+  },
+  {
+    "code":"R101",
+    "type": 3,
+    "name":"Entrada prohibida",
+    "img":""
+  },
+  {
+    "code":"R102",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos de motor",
+    "img":""
+  },
+  {
+    "code":"R103",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos de motor excepto motos de dos ruedas sin sidecar",
+    "img":""
+  },
+  {
+    "code":"R104",
+    "type": 3,
+    "name":"Entrada prohibida a motocicletas",
+    "img":""
+  },
+  {
+    "code":"R105",
+    "type": 3,
+    "name":"Entrada prohibida a ciclomotores",
+    "img":""
+  },
+  {
+    "code":"R106",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos destinados a transportes de mercancias",
+    "img":""
+  },
+  {
+    "code":"R107",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos destinados a transportes de mercancias con mayor peso autorizado que el indicado",
+    "img":""
+  },
+  {
+    "code":"R108",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos que transporten mercancías peligrosas",
+    "img":""
+  },
+  {
+    "code":"R109",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos que transporten mercancías explosivas o inflamables",
+    "img":""
+  },
+  {
+    "code":"R110",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos que transporten productos contaminantes del agua",
+    "img":""
+  },
+  {
+    "code":"R111",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos agricolas de motor",
+    "img":""
+  },
+  {
+    "code":"R112",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculos de motor con remolque, que no sea semiremolque o un remolque de un solo eje",
+    "img":""
+  },
+  {
+    "code":"R113",
+    "type": 3,
+    "name":"Entrada prohibida a vehiculosde tracción animal",
+    "img":""
+  },
+  {
+    "code":"R114",
+    "type": 3,
+    "name":"Entrada prohibida a ciclos",
+    "img":""
+  },
+  {
+    "code":"R115",
+    "type": 3,
+    "name":"Entrada prohibida a carros de mano",
+    "img":""
+  },
+  {
+    "code":"R116",
+    "type": 3,
+    "name":"Entrada prohibida a peatones",
+    "img":""
+  },
+  {
+    "code":"R117",
+    "type": 3,
+    "name":"Entrada prohibida a animales de montura",
+    "img":""
+  }
+]

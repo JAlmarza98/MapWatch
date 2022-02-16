@@ -1,0 +1,68 @@
+[
+  {
+    "code":"TR5",
+    "type": 11,
+    "name":"Prioridad al sentido contrario",
+    "img":""
+  },
+  {
+    "code":"TR101",
+    "type": 11,
+    "name":"Entrada prohibida",
+    "img":""
+  },
+  {
+    "code":"TR106",
+    "type": 11,
+    "name":"Entrada prohibida a vehículos destinados al transporte",
+    "img":""
+  },
+  {
+    "code":"TR201",
+    "type": 11,
+    "name":"Limitación de peso",
+    "img":""
+  },
+  {
+    "code":"TR204",
+    "type": 11,
+    "name":"Limitación de anchura",
+    "img":""
+  },
+  {
+    "code":"TR205",
+    "type": 11,
+    "name":"Limitación de altura",
+    "img":""
+  },
+  {
+    "code":"TR301",
+    "type": 11,
+    "name":"Velocidad máxima",
+    "img":""
+  },
+  {
+    "code":"TR302",
+    "type": 11,
+    "name":"Giro a la derecha prohibido",
+    "img":""
+  },
+  {
+    "code":"TR303",
+    "type": 11,
+    "name":"Giro a la izquierda prohibido",
+    "img":""
+  },
+  {
+    "code":"TR305",
+    "type": 11,
+    "name":"Adelantamiento prohibido",
+    "img":""
+  },
+  {
+    "code":"TR306",
+    "type": 11,
+    "name":"Adelantamiento prohibido a camiones",
+    "img":""
+  }
+]
